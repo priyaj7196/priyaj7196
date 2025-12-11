@@ -73,7 +73,7 @@ Git, MLflow
 
 ## 📫 Contact
 **Email:** priyankajagadala701@gmail.com  
-**LinkedIn:**https://www.linkedin.com/in/priyankajagadala/
+**LinkedIn:** https://www.linkedin.com/in/priyankajagadala/
 **Pronouns:** She/Her  
 
 ---
