@@ -15,20 +15,34 @@ Currently diving deeper into **GenAI, RAG systems, and Agentic AI** to push what
 ---
 
 ## 🧠 What I Bring
-- Hands-on expertise in **Deep Learning, NLP, and PyTorch**
+- Hands-on expertise in **Deep Learning, NLP, and PyTorch,Tensorflow/Keras**
 - Experience designing **end-to-end ML systems** (ETL → modeling → deployment → monitoring)
 - Strong background in **model deployment** (APIs, Dockerized services, cloud workflows)
-- Solid ML foundations + an engineering mindset for scalable solutions
+- Solid ML/DL/NLP foundations + an engineering mindset for scalable solutions
 - Ability to simplify complexity and communicate clearly with any audience
 - And yes… a habit of debugging code that no one else claims responsibility for 😄
 
 ---
 
-## 🤝 Collaboration Interests
-- GenAI / LLM-based applications  
-- Intelligent automation & agentic workflows  
-- Full-stack ML projects with real business impact  
-- Anything involving DL, NLP, or PyTorch at scale
+## 🔍 Research Interests & Collaboration
+
+I’m deeply interested in **Research Scientist–level work**, especially in:
+
+- **Designing and improving Transformer-based architectures**  
+- **Building efficient attention mechanisms** (sparse, linear, long-context)  
+- **LLM fine-tuning, optimization & evaluation**  
+- **RAG systems & Agentic AI design**  
+- **End-to-end GenAI systems** (from modeling → deployment)  
+- **Applied NLP research**, especially scalable representation learning  
+- **Reproducibility projects** based on recent research papers
+
+👯 **I’m excited to collaborate on:**  
+- Novel ideas around **Transformer architecture improvements**  
+- Reproducing and extending **state-of-the-art research papers**  
+- Experimental pipelines in **PyTorch** with clean ablations  
+- GenAI/LLM apps with real-world impact  
+- Any project where curiosity + experimentation = insight
+
 
 ---
 
@@ -44,7 +58,7 @@ PyTorch, TensorFlow/Keras, Scikit-Learn, XGBoost, LSTM/GRU, CNNs, Transformers
 Tokenization, Embeddings, Seq2Seq, Attention Models, LLM Finetuning, RAG
 
 **GenAI:**  
-LangChain, LlamaIndex, Vector Databases (FAISS, Chroma), LLM orchestration
+LangChain,LangGraph, LlamaIndex, Vector Databases (FAISS, Chroma,Pinecone), LLM orchestration
 
 **Pipelines & Deployment:**  
 Airflow, Docker, FastAPI, REST APIs, Model Serving
@@ -53,18 +67,19 @@ Airflow, Docker, FastAPI, REST APIs, Model Serving
 Pandas, Spark, Feature Engineering, Data Pipelines
 
 **Tools:**  
-Git, MLflow, Weights & Biases
+Git, MLflow
 
 ---
 
 ## 📫 Contact
 **Email:** priyankajagadala701@gmail.com  
+**LinkedIn:**https://www.linkedin.com/in/priyankajagadala/
 **Pronouns:** She/Her  
 
 ---
 
 ## ⚡ Fun Fact
-I’ve been told I sing well and smile like a kid — I’ve decided to take both compliments extremely seriously 🤭
+I sing well, smile like a kid, and somehow manage to train stubborn models without threatening them… most days 🤭
 
 ---
 
