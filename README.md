@@ -16,7 +16,7 @@ Currently diving deeper into **GenAI, RAG systems, and Agentic AI** to push what
 
 ## 🧠 What I Bring
 - Hands-on expertise in **Deep Learning, NLP, and PyTorch,Tensorflow/Keras**
-- Experience designing **end-to-end ML systems** (ETL → modeling → deployment → monitoring)
+- Experience designing **end-to-end ML/DL systems** (ETL → modeling → deployment → monitoring)
 - Strong background in **model deployment** (APIs, Dockerized services, cloud workflows)
 - Solid ML/DL/NLP foundations + an engineering mindset for scalable solutions
 - Ability to simplify complexity and communicate clearly with any audience
@@ -52,7 +52,7 @@ I’m deeply interested in **Research Scientist–level work**, especially in:
 Python, SQL
 
 **Deep Learning / ML:**  
-PyTorch, TensorFlow/Keras, Scikit-Learn, XGBoost, LSTM/GRU, CNNs, Transformers
+PyTorch, TensorFlow/Keras, Scikit-Learn, XGBoost,LightGBM, LSTM/GRU, CNNs, Transformers
 
 **NLP:**  
 Tokenization, Embeddings, Seq2Seq, Attention Models, LLM Finetuning, RAG
@@ -66,8 +66,8 @@ Airflow, Docker, FastAPI, REST APIs, Model Serving
 **Data Engineering:**  
 Pandas, Spark, Feature Engineering, Data Pipelines
 
-**Tools:**  
-Git, MLflow
+**Tools & Frameworks:**  
+Git, MLflow,Optuna
 
 ---
 
