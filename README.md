@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Priya — Data Scientist & GenAI Practitioner
 
 I design and build intelligent systems end-to-end — from raw data to production-ready models.  
-With strong experience in **Deep Learning, NLP, PyTorch**, and **scalable ML pipelines**, I enjoy solving real-world problems using clean architecture, experimentation discipline, and a practical delivery mindset.
+With strong experience in ** Deep Learning, NLP, PyTorch**, and **scalable ML pipelines**, I enjoy solving real-world problems using clean architecture, experimentation discipline, and a practical delivery mindset.
 
 Currently diving deeper into **GenAI, RAG systems, and Agentic AI** to push what AI can do next.
 
@@ -16,9 +16,9 @@ Currently diving deeper into **GenAI, RAG systems, and Agentic AI** to push what
 
 ## 🧠 What I Bring
 - Hands-on expertise in **Deep Learning, NLP, and PyTorch,Tensorflow/Keras**
-- Experience designing **end-to-end ML/DL systems** (ETL → modeling → deployment → monitoring)
-- Strong background in **model deployment** (APIs, Dockerized services, cloud workflows)
-- Solid ML/DL/NLP foundations + an engineering mindset for scalable solutions
+- Expertise in designing **end-to-end ML/DL systems** (ETL → modeling → deployment → monitoring)
+- Strong background in **model deployment** (FastAPI, Dockerized services, cloud workflows, MLFlow,PyDantic)
+- Solid ML/DL/NLP knowledge + an engineering mindset for scalable solutions
 - Ability to simplify complexity and communicate clearly with any audience
 - And yes… a habit of debugging code that no one else claims responsibility for 😄
 
@@ -57,7 +57,7 @@ PyTorch, TensorFlow/Keras, Scikit-Learn, XGBoost,LightGBM, LSTM/GRU, CNNs, Trans
 **NLP:**  
 Tokenization, Embeddings, Seq2Seq, Attention Models, LLM Finetuning, RAG
 
-**GenAI:**  
+**GenAI & Agentic AI:**  
 LangChain,LangGraph, LlamaIndex, Vector Databases (FAISS, Chroma,Pinecone), LLM orchestration
 
 **Pipelines & Deployment:**  
