@@ -47,15 +47,14 @@ Open to collaboration on research-driven GenAI and Healthcare based experimentat
 ### GenAI & NLP
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai" width="34"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" width="34"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=flat" width="34"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" width="54"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=flat" width="54"/>
 </p>
 
 ### Pipelines & Deployment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="36"/>
 </p>
 
 ### Experimentation & Version Control
