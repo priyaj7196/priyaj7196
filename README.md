@@ -15,13 +15,15 @@ Currently exploring **Transformer architectures, RAG systems, and Agentic AI**.
 ---
 
 ## 🔍 Research Interests & Collaboration
+- Any project where curiosity + experimentation = insight
 - Transformer-based architecture design and optimization  
 - Efficient attention mechanisms (sparse, linear, long-context)  
 - LLM fine-tuning and evaluation  
-- Applied NLP research and representation learning  
-- Reproducibility and extension of recent research papers  
+- Applied NLP research and representation learning
+- End-to-end GenAI systems (from modeling → deployment) 
+- Reproducing and extending **state-of-the-art research papers 
 
-Open to collaboration on research-driven GenAI and PyTorch-based experimentation.
+Open to collaboration on research-driven GenAI and Healthcare based experimentation.
 
 ---
 
