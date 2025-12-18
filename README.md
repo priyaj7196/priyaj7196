@@ -44,8 +44,9 @@ Open to collaboration on research-driven GenAI and PyTorch-based experimentation
 
 ### GenAI & NLP
 <p align="left">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="34"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pytorch.svg" width="34"/>
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai" width="34"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" width="34"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=flat" width="34"/>
 </p>
 
 ### Pipelines & Deployment
