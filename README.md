@@ -79,7 +79,7 @@ Git, MLflow,Optuna
 ---
 
 ## ⚡ Fun Fact
-I sing well, smile like a kid, and somehow manage to train stubborn models without threatening them… most days 🤭
+I find rhythm in music, poetry in patterns, and harmony in well-trained models — though some still insist on being off-beat🤭
 
 ---
 
