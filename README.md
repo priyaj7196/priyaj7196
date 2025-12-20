@@ -49,6 +49,8 @@ Open to collaboration on research-driven GenAI and Healthcare based experimentat
   <img src="https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai" width="94"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat" width="94"/>
   <img src="https://img.shields.io/badge/LlamaIndex-4B8BBE?style=flat" width="94"/>
+  <img src="https://img.shields.io/badge/NLTK-NLP-blue?style=flat" width="36"/>
+
 </p>
 
 ### Pipelines & Deployment
